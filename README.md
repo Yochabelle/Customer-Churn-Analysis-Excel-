@@ -1,6 +1,6 @@
 # Customer Churn Analysis (Excel)
 
-This project analyzes telecom customer churn using Excel. The workbook includes the raw dataset, cleaned tables, pivot tables, and a churn analysis dashboard built with pivot charts.
+This project analyzes telecom customer churn using Excel. The workbook includes the raw dataset, cleaned tables, pivot tables, and a churn analysis dashboard built with pivot charts(Work in progress).
 excel_dashboard/
     └── Analyzing Customer churn.xlsx
 
