@@ -1,11 +1,11 @@
 # Customer Churn Analysis (Excel)
 
-This project analyzes telecom customer churn using Excel. The workbook includes the raw dataset, cleaned tables, pivot tables, and a churn analysis dashboard built with pivot charts(Work in progress).
+This project analyzes telecom customer churn using Excel. The workbook includes the raw dataset, cleaned tables, pivot tables, and a churn analysis dashboard built with pivot charts
 excel_dashboard/
-    └── Analyzing Customer churn.xlsx
+     Analyzing Customer churn.xlsx
 
 documentation/
-    └── dashboard_notes.md
+     dashboard_notes.md
 
 ## Key Questions Answered
 - Which contract type has the highest churn rate?
